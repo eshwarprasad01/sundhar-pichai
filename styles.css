@@ -1,0 +1,92 @@
+body {
+  background-color: #cff5e7;
+  font-family: cursive;
+}
+h1 {
+  margin: 0;
+  font-size: 50px;
+  color: #00abb3;
+}
+hr {
+  border-style: dotted none none none;
+  width: 10%;
+  border-width: 5px;
+  border-color: grey;
+}
+.dp {
+  border: solid;
+  border-width: 5px;
+  border-color: #150050;
+  border-radius: 20px 0 20px 0;
+}
+.dp-block {
+  display: inline-block;
+  margin: 130px 0 0 100px;
+}
+.info {
+  position: absolute;
+  top: 120px;
+  left: 600px;
+}
+#position {
+  margin: 0;
+  font-size: 20px;
+  color: #39a388;
+}
+.quotes {
+  font-size: 30px;
+  margin-bottom: 50px;
+}
+.quotes-block {
+  position: absolute;
+  top: 0;
+  width: 50%;
+  margin-top: 250px;
+  margin-left: 580px;
+}
+.gap {
+  height: 70px;
+}
+.image2 {
+  position: relative;
+  top: 150px;
+  left: 1000px;
+  border: solid;
+  border-width: 5px;
+  border-color: #150050;
+  border-radius: 0 20px 0 20px;
+  height: 300px;
+}
+.first-para {
+  width: 60%;
+  position: absolute;
+  display: inline-block;
+  left: 40px;
+  top: 780px;
+  font-size: 25px;
+}
+.block2 {
+  padding-bottom: 245px;
+}
+.block3 {
+  padding-left: 33px;
+  padding-right: 25px;
+  font-size: 25px;
+  padding-bottom: 50px;
+}
+.conclusion {
+  background-color: #a0e4cb;
+  margin-top: 100px;
+  margin: 80px 100px 50px 100px;
+  border: solid;
+  border-width: 5px;
+  border-radius: 50px 0 50px 0;
+  height: 100px;
+  padding-top: 20px;
+  padding-left: 130px;
+  font-size: 22px;
+}
+#copyright {
+  margin-bottom: 40px;
+  padding-left: 700px;
+}
